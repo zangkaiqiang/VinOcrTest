@@ -1,0 +1,61 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Gradle files
+.gradle/
+build/
+/*/build/
+out/
+app/*/build/
+.idea/
+.gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# ProGuard files
+proguard/
+proguard-project.txt
+proguard-rules.pro
+
+# Logs and databases
+*.log
+*.txt
+*.dmp
+*.xml
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.swp
+
+# Android Studio
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/.gradle
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/vcs.xml
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# NDK debugging
+obj/
+*.aar
